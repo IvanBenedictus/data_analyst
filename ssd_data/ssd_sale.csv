@@ -1,0 +1,36 @@
+creationdate,quotation,company,contact,brand,quantity,price,orderstatus
+02/08/2023,SO90085,PT Indopoly Swakarsa Industry Tbk,Indah Dwi Sofian,Autonics,1,2000000,Quotation
+27/06/2023,SO87674,PT Honda Precision Parts Manufacturing,Muhammad Widiya Ramdan,Oriental,2,1900000,Locked
+31/07/2023,SO89911,PT Honda Precision Parts Manufacturing,Angga Martha Dewangga,OHM,1,43750000,Quotation
+31/07/2023,SO89908,PT Indopoly Swakarsa Industry Tbk,Indah Dwi Sofian,Autonics,2,1550000,Quotation
+03/07/2023,SO87845,PT Niramas Utama,Steven Kurniawan,Autonics,10,5200000,Locked
+26/06/2023,SO87583,PT Indopoly Swakarsa Industry Tbk,Indah Dwi Sofian,Autonics,1,2010000,Locked
+26/06/2023,SO87579,PT Indopoly Swakarsa Industry Tbk,Indah Dwi Sofian,Autonics,1,675000,Locked
+30/05/2023,SO85653,PT Honda Precision Parts Manufacturing,Muhammad Widiya Ramdan,Oriental,3,2070000,Locked
+09/06/2023,SO86385,PT Indopoly Swakarsa Industry Tbk,Indah Dwi Sofian,Autonics,4,2660000,Locked
+30/05/2023,SO85655,PT Honda Precision Parts Manufacturing,Muhammad Widiya Ramdan,THK,4,680000,Locked
+31/05/2023,SO85812,PT Niramas Utama,Steven Kurniawan,Autonics,3,650000,Locked
+19/01/2023,SO77327,PT Anugerah Aneka Industri,Amukti Sadat Jati,CKD,2,3100000,Locked
+30/05/2023,SO85657,PT Honda Precision Parts Manufacturing,Muhammad Widiya Ramdan,OHM,1,44000000,Quotation
+30/05/2023,SO85648,PT Honda Precision Parts Manufacturing,Muhammad Widiya Ramdan,Oriental,3,18300000,Quotation
+26/05/2023,SO85431,PT Yaskawa Electric Indonesia,Dwi Anugrah Putra,Mech Mind,1,500000000,Locked
+25/05/2023,SO85382,PT Honda Precision Parts Manufacturing,Bambang Sunarto,Mitsubishi,1,5750000,Locked
+22/05/2023,SO85014,PT Niramas Utama,Steven Kurniawan,Autonics,1,7050000,Quotation
+16/05/2023,SO84700,PT Astra Winteq,Rudy Hardiansyah,Autonics,1,89600000,Quotation
+12/05/2023,SO84479,PT Honda Precision Parts Manufacturing,Angga Martha Dewangga,OHM,4,176000000,Locked
+27/03/2023,SO81957,PT Honda Precision Parts Manufacturing,Bambang Sunarto,Mitsubishi,1,5750000,Locked
+05/05/2023,SO84030,PT Indopoly Swakarsa Industry Tbk,Indah Dwi Sofian,Autonics,1,390000,Locked
+06/03/2023,SO80584,PT Honda Precision Parts Manufacturing,Angga Martha Dewangga,OHM,1,44000000,Locked
+13/04/2023,SO83295,PT Honda Precision Parts Manufacturing,Bambang Sunarto,Mitsubishi,1,6450000,Locked
+06/04/2023,SO82901,PT Indopoly Swakarsa Industry Tbk,Indah Dwi Sofian,Autonics,1,2150000,Locked
+11/04/2023,SO83069,PT Honda Precision Parts Manufacturing,Dicky Ismet Sunarya,Oriental,1,6400000,Quotation
+27/03/2023,SO82036,PT Niramas Utama,Steven Kurniawan,Autonics,3,970000,Locked
+15/03/2023,SO81278,PT Skylab Kreasi Indonesia,Andri Yudatama,Universal Robot,1,7000000,Quotation
+15/03/2023,SO81276,PT Skylab Kreasi Indonesia,Andri Yudatama,Universal Robot,1,7000000,Quotation
+14/03/2023,SO81231,PT Skylab Kreasi Indonesia,Andri Yudatama,Universal Robot,8,56000000,Quotation
+04/03/2023,SO80569,PT Niramas Utama,Steven Kurniawan,Autonics,5,5505000,Locked
+14/02/2023,SO79257,PT Skylab Kreasi Indonesia,Andri Yudatama,Hans Robot,1,400000000,Quotation
+31/01/2023,SO78184,PT Anugerah Aneka Industri,Amukti Sadat Jati,CKD,1,1650000,Quotation
+20/11/2022,SO73172,PT Anugerah Aneka Industri,Amukti Sadat Jati,CKD,1,5900000,Quotation
+07/10/2022,SO69820,PT Skylab Kreasi Indonesia,Andri Yudatama,Universal Robot,7,40000000,Quotation
+06/10/2022,SO69729,PT Andal Wahana Sinergi,Livano Yudistira,Solomon,1,155100000,Quotation

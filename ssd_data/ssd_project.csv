@@ -1,0 +1,22 @@
+projectid,company,contact,leads,projectname,staging,product,budget,closing
+PR00001,PT Pigeon Indonesia,Gilang Ramadhan,Pick and Place,Punching Machine,D/P,Epson,400000000,Pending
+PR00002,PT Pigeon Indonesia,Gilang Ramadhan,Pallet Transfer,Pallet Warehouse,D/P,SEER,400000000,Pending
+PR00003,PT Pigeon Indonesia,Galih Wicaksono,Pick and Place,Flame Machine,A,Kuka,400000000,Closing
+PR00004,PT Pigeon Indonesia,Galih Wicaksono,Inspection,Wrapping Machine,D/P,Autonics,400000000,Pending
+PR00005,PT Pigeon Indonesia,Galih Wicaksono,Inspection,Leak Test Machine,A,SPM,100000000,Closing
+PR00006,PT Astra Visteon Indonesia,Risyad Syaifatul Haq,Trolley Transfer,Trolley Master Box,C/P,MIR,2000000000,Pending
+PR00007,PT Astra Visteon Indonesia,Risyad Syaifatul Haq,Palletizing,FG Master Box,D/P,Universal Robot,1500000000,Pending
+PR00008,PT Astra Visteon Indonesia,Risyad Syaifatul Haq,Trolley Transfer,Trolley SFG to FG,C,MIR,1000000000,Dec-23
+PR00009,PT Astra Komponen Indonesia,Oksa Angger Dumas,Palletizing,FG Master Box,B/L,Mech Mind,1000000000,Lost
+PR00010,PT Astra Visteon Indonesia,Nanang Kriscandono,Tending Machine,EOL Machine,A,Kuka,1000000000,Closing
+PR00011,PT Astra Visteon Indonesia,Risyad Syaifatul Haq,Warehouse Management,Master Box Management,C,WMS,150000000,Oct-23
+PR00012,PT Astra Komponen Indonesia,Oksa Angger Dumas,Assembling,Assy Mask Station,C,Kuka,1000000000,Oct-23
+PR00013,PT Precision Part Indonesia,Joko Widodo,Tending Machine,FG Product to CNC,B,Universal Robot,1500000000,Oct-23
+PR00014,PT Astra Komponen Indonesia,Oksa Angger Dumas,Bin Picking,Rearview Station,C,Epson,1000000000,Oct-23
+PR00015,PT Yaskawa Electric Indonesia,Dwi Anugrah Putra,Bin Picking,Showroom Project,A,Mech Mind,300000000,Closing
+PR00016,PT Astra Daihatsu Motor,Putra Berkah Ciptadi,Trolley Transfer,Shell Body Metal,B/L,AGV,15000000000,Lost
+PR00017,PT Fanuc Indonesia,Dia Ginanjar,Inspection,Bumper Inspection,D,Mech Mind,1000000000,Aug-23
+PR00018,PT Fanuc Indonesia,Dia Ginanjar,Inspection,Clamping Inspection,A,Autonics,100000000,Closing
+PR00019,PT Astra Komponen Indonesia,Oksa Angger Dumas,Trolley Transfer,Robot on Top AMR,E,SEER,1000000000,Mar-24
+PR00020,PT Frisindo Mitra Usaha,Abdi Surya Pangestu,Tending Machine,FG Product to CNC,E,Kuka,1000000000,Mar-24
+PR00021,PT Astra Visteon Indonesia,Nanang Kriscandono,Tending Machine,Router Machine,A,Kuka,1000000000,Closing
